@@ -2,7 +2,7 @@
 An Image Capitioning ML model, which outputs text captions for Input images.
 
 # Dataset Used
-Flickr dataset has been used for developing this model. 
+Flickr dataset has been used for training this model. 
 
 # Running the Project
 * Import the .ipynb file on either google colab or jupyter notebook.
