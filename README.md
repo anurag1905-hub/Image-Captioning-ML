@@ -1,4 +1,4 @@
-# Social Media Application
+# Image-Caption-Generation
 An Image Capitioning ML model, which outputs text captions for Input images.
 
 # Dataset Used
